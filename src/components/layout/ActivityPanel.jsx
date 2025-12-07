@@ -5,7 +5,7 @@ import { useTheme } from "../../context/ThemeContext";
 import bugIcon from "../../assets/IconSet.png";
 import image2 from "../../assets/image2.png";
 import image4 from "../../assets/image4.png";
-import Male from "../../assets/Iconset1.png";
+import Male from "../../assets/IconSet1.png";
 import Female from "../../assets/Female05.png";
 import Female2 from "../../assets/IconSet3.png";
 import imagemale from "../../assets/IconSet4.png";
